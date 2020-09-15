@@ -1,2 +1,3 @@
 # Bootstrap-site
-Simple website used made using the Bootstrap4 Grid System 
+Simple website made using the Bootstrap4 Grid System 
+![site image](site.png)
