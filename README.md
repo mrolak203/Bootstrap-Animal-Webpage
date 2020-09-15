@@ -1,2 +1,2 @@
 # Bootstrap-site
-Simple website used made using Bootstraps Grid System 
+Simple website used made using the Bootstrap4 Grid System 
