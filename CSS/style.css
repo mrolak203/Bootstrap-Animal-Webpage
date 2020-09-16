@@ -25,11 +25,7 @@ body{
     z-index: 0;
 }
 
-img {
-    border-radius: 10%;
-    opacity: 0.82;
-    margin-left: 10px
-  }
+
 
   .mt{
     margin-top: 5px
