@@ -4,6 +4,10 @@ margin: 0px auto;
 padding: 0px auto;
 
 }
+.center_div{
+    margin: 0 auto;
+    width:80% /* value of your choice which suits your alignment */
+}
 .navbar-custom{
     background-color: #8CD98C; 
 
