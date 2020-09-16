@@ -4,20 +4,50 @@ margin: 0px auto;
 padding: 0px auto;
 
 }
+.navbar-custom{
+    background-color: #8CD98C; 
+
+    
+}
+.custb1{
+    background-color: #8C8CD9; 
+}
+
+.custb2{
+    background-color:#B38CD9;
+}
+
+.custb3{
+    background-color: #8CB3D9;
+}
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
 
 img {
-    border-radius: 80%;
+    border-radius: 10%;
     opacity: 0.82;
+    margin-left: 10px
   }
 
+  .mt{
+    margin-top: 5px
+  }
+  .ml{
+      margin-left: 10px !important;
+
+  }
 .jumbotron{
     background-color: #d98cd9;
     padding: 80px 20px 80px 20px;
     margin: 0px auto;
+    color: white
+    
 }
 .footer{
 
-    background-color:   #d98cd9;
+    background-color:   #efcdef;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
