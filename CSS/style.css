@@ -4,6 +4,12 @@ margin: 0px auto;
 padding: 0px auto;
 
 }
+
+
+
+
+.navbar-default { margin-bottom: 0;
+    margin-bottom: 0; }
 .center_div{
     margin: 0 auto;
     width:80% /* value of your choice which suits your alignment */
@@ -50,6 +56,7 @@ body{
     background-color:   #efcdef;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
+
 }
 .row-content{
     margin: 0px auto;
