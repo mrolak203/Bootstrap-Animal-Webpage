@@ -1,0 +1,98 @@
+.row-header{
+
+margin: 0px auto;
+padding: 0px auto;
+
+}
+
+
+
+
+.navbar-default { margin-bottom: 0;
+    margin-bottom: 0; }
+.center_div{
+    margin: 0 auto;
+    width:80% /* value of your choice which suits your alignment */
+}
+.navbar-custom{
+    background-color: #8CD98C; 
+
+    
+}
+.custb1{
+    background-color: #88FF8D; 
+}
+
+.custb2{
+    background-color:#88BEFF;
+}
+
+.custb3{
+    background-color:#FF88FA;
+}
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.carousel {
+    /*background:#512DA8;*/
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+  .mt{
+    margin-top: 5px
+  }
+  .ml{
+      margin-left: 10px !important;
+
+  }
+.jumbotron{
+    background-color: #d98cd9;
+    padding: 80px 20px 80px 20px;
+    margin: 0px auto;
+    color: white
+    
+}
+.footer{
+
+    background-color:   #efcdef;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+
+}
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px
+}
+
+.address{
+    font-size: 80%;
+    color: black;
+
+}
+
+.pic1{
+   
+        width: 1200px;
+        height:800px;
+        background-size: auto; /* or contain depending on what you want */
+        background-position: top top;
+        background-repeat: no-repeat;
+        text-align:center;
+        margin-bottom: 100px;
+        padding:0;
+      
+}
